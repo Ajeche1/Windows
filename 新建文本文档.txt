@@ -7,3 +7,6 @@ char* dst = (char*)malloc(sizeof(char)*(len+ 1));
 for(int i=o; i<len; i++)dst[i] = src[i];
 //字符串结束标记dst[len]='1\O’;return dst;
 }
+/**
+远程edit
+**/
